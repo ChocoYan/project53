@@ -1,0 +1,13 @@
+1.Java script
+2.HTML
+3.make the things inside the div tag in to a grp
+  to make your website more organise
+4.position: relative places an element relative to its current position without changing the layout around it, whereas position: absolute places an element relative to its parent's position and changing the layout around it.
+5.to specify the transparency of the element
+6.xml
+7.snack
+8.downaled the app
+  scane code
+9.repeat
+10.show on the screen
+11.button,text,veiws
